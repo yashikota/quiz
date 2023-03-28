@@ -1,0 +1,695 @@
+[
+    {
+        "name": "中ノ島 妙",
+        "image": "https://legacy.yuzu-soft.com/buraban/images/chara/chara01.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "海老原 みなせ",
+        "image": "https://legacy.yuzu-soft.com/buraban/images/chara/chara02.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "今宮 紀子",
+        "image": "https://legacy.yuzu-soft.com/buraban/images/chara/chara03.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "御影 須美",
+        "image": "https://legacy.yuzu-soft.com/buraban/images/chara/chara04.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "雲雀丘 由貴",
+        "image": "https://legacy.yuzu-soft.com/buraban/images/chara/chara05.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "朝霧 春奈",
+        "image": "https://legacy.yuzu-soft.com/buraban/images/chara/chara06.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "野宮 悠",
+        "image": "https://legacy.yuzu-soft.com/exe/images/chara/chara01.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "籠 夏希",
+        "image": "https://legacy.yuzu-soft.com/exe/images/chara/chara02.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "貴船 未緒",
+        "image": "https://legacy.yuzu-soft.com/exe/images/chara/chara03.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "伏見 真姫奈",
+        "image": "https://legacy.yuzu-soft.com/exe/images/chara/chara05.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "八坂 紫織",
+        "image": "https://legacy.yuzu-soft.com/exe/images/chara/chara06.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "白峯 沙耶",
+        "image": "https://legacy.yuzu-soft.com/exe/images/chara/chara07.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "日向 紅葉",
+        "image": "https://legacy.yuzu-soft.com/exe/images/chara/chara08.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "伏見 鈴乃",
+        "image": "https://legacy.yuzu-soft.com/exe/images/chara/chara09.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "上御霊 円",
+        "image": "https://legacy.yuzu-soft.com/exe/images/chara/chara10.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "上坂 茅羽耶",
+        "image": "https://legacy.yuzu-soft.com/natsu/images/chara/chara01.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "三好 由比子",
+        "image": "https://legacy.yuzu-soft.com/natsu/images/chara/chara02.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "七条 沙々羅",
+        "image": "https://legacy.yuzu-soft.com/natsu/images/chara/chara03.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "三好 双葉",
+        "image": "https://legacy.yuzu-soft.com/natsu/images/chara/chara05.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "三好 ミホ",
+        "image": "https://legacy.yuzu-soft.com/natsu/images/chara/chara06.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "仁木 夕張",
+        "image": "https://legacy.yuzu-soft.com/natsu/images/chara/chara07.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "卯花之佐久夜姫",
+        "image": "https://legacy.yuzu-soft.com/tenshin/images/chara/chara01.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "竜胆 ルリ",
+        "image": "https://legacy.yuzu-soft.com/tenshin/images/chara/chara02.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "千歳 佐奈",
+        "image": "https://legacy.yuzu-soft.com/tenshin/images/chara/chara03.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "山吹 葵",
+        "image": "https://legacy.yuzu-soft.com/tenshin/images/chara/chara04.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "常盤 まひろ",
+        "image": "https://legacy.yuzu-soft.com/tenshin/images/chara/chara06.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "烏羽 紫",
+        "image": "https://legacy.yuzu-soft.com/tenshin/images/chara/chara07.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "木賊 朋花",
+        "image": "https://legacy.yuzu-soft.com/tenshin/images/chara/chara08.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "山吹 渉",
+        "image": "https://legacy.yuzu-soft.com/tenshin/images/chara/chara09.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "兼元 灯里",
+        "image": "https://legacy.yuzu-soft.com/nw/images/chara/chara01.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "月山 瀬奈",
+        "image": "https://legacy.yuzu-soft.com/nw/images/chara/chara02.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "正宗 静流",
+        "image": "https://legacy.yuzu-soft.com/nw/images/chara/chara03.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "国広 ひなた",
+        "image": "https://legacy.yuzu-soft.com/nw/images/chara/chara04.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "長光 麻夜",
+        "image": "https://legacy.yuzu-soft.com/nw/images/chara/chara05.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "三条 真琴",
+        "image": "https://legacy.yuzu-soft.com/nw/images/chara/chara06.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "安綱 蛍",
+        "image": "https://legacy.yuzu-soft.com/nw/images/chara/chara07.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "源 茅明",
+        "image": "https://legacy.yuzu-soft.com/nw/images/chara/chara08.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "矢来 美羽",
+        "image": "https://www.yuzu-soft.com/ja/cgm/images/post/20111016/40/197/large/b8d380fa6b26cadfebfedd3a3402e3ae.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "布良 梓",
+        "image": "https://www.yuzu-soft.com/ja/cgm/images/post/20111017/42/200/large/82180554b2907b58007c35742ae1546d.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "稲叢 莉音",
+        "image": "https://www.yuzu-soft.com/ja/cgm/images/post/20111016/41/202/large/0e1c0e38d85c029e281d0109d8f27b84.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "エリナ・オレゴヴナ・アヴェーン",
+        "image": "https://www.yuzu-soft.com/ja/cgm/images/post/20111017/43/204/large/f06eddaa0ee4113be7f321c089081d70.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "大房 ひよ里",
+        "image": "https://www.yuzu-soft.com/ja/cgm/images/post/20111101/85/340/large/f104aab36434570ccfa7986379edff0e.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "シャーリィ・ウォリック",
+        "image": "https://www.yuzu-soft.com/ja/cgm/images/post/20130218/5686/6762/large/f5e017ff33194ae31aeafb5bd8fd9d8e.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "天霧 夕音",
+        "image": "https://www.yuzu-soft.com/ja/cgm/images/post/20130218/5690/6772/large/0dd6d67c7114517dad4ca6f3c8b951b2.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "白鹿 愛莉",
+        "image": "https://www.yuzu-soft.com/ja/cgm/images/post/20130218/5691/6781/large/6bb55ae9cbd113d28a85e5fd3adfcbdc.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "真咲・ガイヤール",
+        "image": "https://www.yuzu-soft.com/ja/cgm/images/post/20130218/5692/6790/large/875b4e90a0cedc86f62113842bb41acf.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "ティア・ホーエンヴェルフェン",
+        "image": "https://www.yuzu-soft.com/ja/cgm/images/post/20130222/5706/6887/large/be6198f54fffe80ec6c62b433e906348.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "火宮 木乃香",
+        "image": "https://www.yuzu-soft.com/ja/cgm/images/post/20130222/5706/6893/large/6158dbdfffad55c3b2c71abcf1a81383.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "フランチェスカ・パラミディ",
+        "image": "https://www.yuzu-soft.com/ja/cgm/images/post/20130222/5706/6888/large/c424d8c50f4b9ce7f22156da8735aa81.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "三刀屋 実里",
+        "image": "https://www.yuzu-soft.com/ja/cgm/images/post/20130222/5706/6892/large/3d172fef7ce4fb0bbe9b76affaf0ceba.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "綾地 寧々",
+        "image": "https://www.yuzu-soft.com/products/sothewitch/images/character/main_chara_bg01.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "因幡 めぐる",
+        "image": "https://www.yuzu-soft.com/products/sothewitch/images/character/main_chara_bg02.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "椎葉 紬",
+        "image": "https://www.yuzu-soft.com/products/sothewitch/images/character/main_chara_bg03.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "戸隠 憧子",
+        "image": "https://www.yuzu-soft.com/products/sothewitch/images/character/main_chara_bg04.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "仮屋 和奏",
+        "image": "https://www.yuzu-soft.com/products/sothewitch/images/character/sub_chara_bg01.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "相馬 七緒",
+        "image": "https://www.yuzu-soft.com/products/sothewitch/images/character/sub_chara_bg02.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "久島 佳苗",
+        "image": "https://www.yuzu-soft.com/products/sothewitch/images/character/sub_chara_bg03.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "朝武 芳乃",
+        "image": "https://www.yuzu-soft.com/products/senren/images/chara/chara01/base.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "常陸 茉子",
+        "image": "https://www.yuzu-soft.com/products/senren/images/chara/chara02/base.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "ムラサメ",
+        "image": "https://www.yuzu-soft.com/products/senren/images/chara/chara03/base.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "レナ・リヒテナウアー",
+        "image": "https://www.yuzu-soft.com/products/senren/images/chara/chara04/base.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "鞍馬 小春",
+        "image": "https://www.yuzu-soft.com/products/senren/images/chara/chara05/base.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "馬庭 芦花",
+        "image": "https://www.yuzu-soft.com/products/senren/images/chara/chara06/base.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "三司 あやせ",
+        "image": "https://www.yuzu-soft.com/products/riddle/images/character/chara01/base.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "在原 七海",
+        "image": "https://www.yuzu-soft.com/products/riddle/images/character/chara02/base.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "式部 茉優",
+        "image": "https://www.yuzu-soft.com/products/riddle/images/character/chara03/base.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "二条院 羽月",
+        "image": "https://www.yuzu-soft.com/products/riddle/images/character/chara04/base.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "壬生 千咲",
+        "image": "https://www.yuzu-soft.com/products/riddle/images/character/chara05/base.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "明月 栞那",
+        "image": "https://www.yuzu-soft.com/products/stella/images/character/chara01/base.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "四季 ナツメ",
+        "image": "https://www.yuzu-soft.com/products/stella/images/character/chara02/base.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "墨染 希",
+        "image": "https://www.yuzu-soft.com/products/stella/images/character/chara03/base.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "火打谷 愛衣",
+        "image": "https://www.yuzu-soft.com/products/stella/images/character/chara04/base.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "汐山 涼音",
+        "image": "https://www.yuzu-soft.com/products/stella/images/character/chara05/base.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": ""
+    },
+    {
+        "name": "白雪 乃愛",
+        "image": "https://www.yuzu-soft.com/products/ten_sz/images/mainchara/chara01/chara-base.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    },
+    {
+        "name": "谷風 天音",
+        "image": "https://www.yuzu-soft.com/products/ten_sz/images/mainchara/chara02/chara-base.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "小雲雀 来海",
+        "image": "https://www.yuzu-soft.com/products/ten_sz/images/mainchara/chara03/chara-base.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "むりりん"
+    },
+    {
+        "name": "星河 かぐ耶",
+        "image": "https://www.yuzu-soft.com/products/ten_sz/images/mainchara/chara04/chara-base.jpg",
+        "questions": [
+            "むりりん",
+            "こぶいち"
+        ],
+        "answer": "こぶいち"
+    }
+]
